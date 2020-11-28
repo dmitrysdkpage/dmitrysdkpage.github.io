@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" stroke="#919191" stroke-width=".5" d="M20 .25C9.093.25.25 9.093.25 20S9.093 39.75 20 39.75 39.75 30.907 39.75 20 30.907.25 20 .25z"/>
+        <g transform="translate(8 9)">
+            <rect width="24" height="15" y="8" fill="#6D7278" rx="2"/>
+            <circle cx="9" cy="17" r="1" fill="#FFF"/>
+            <circle cx="9" cy="14" r="1" fill="#FFF"/>
+            <circle cx="9" cy="11" r="1" fill="#FFF"/>
+            <circle cx="9" cy="20" r="1" fill="#FFF"/>
+            <circle cx="12" cy="17" r="1" fill="#FFF"/>
+            <circle cx="12" cy="14" r="1" fill="#FFF"/>
+            <circle cx="12" cy="11" r="1" fill="#FFF"/>
+            <circle cx="12" cy="20" r="1" fill="#FFF"/>
+            <circle cx="15" cy="17" r="1" fill="#FFF"/>
+            <circle cx="15" cy="14" r="1" fill="#FFF"/>
+            <circle cx="15" cy="11" r="1" fill="#FFF"/>
+            <circle cx="15" cy="20" r="1" fill="#FFF"/>
+            <circle cx="18" cy="17" r="1" fill="#FFF"/>
+            <circle cx="18" cy="14" r="1" fill="#FFF"/>
+            <circle cx="18" cy="11" r="1" fill="#FFF"/>
+            <circle cx="21" cy="17" r="1" fill="#FFF"/>
+            <circle cx="21" cy="14" r="1" fill="#FFF"/>
+            <circle cx="21" cy="11" r="1" fill="#FFF"/>
+            <circle cx="6" cy="17" r="1" fill="#FFF"/>
+            <circle cx="6" cy="14" r="1" fill="#FFF"/>
+            <circle cx="6" cy="20" r="1" fill="#FFF"/>
+            <circle cx="3" cy="17" r="1" fill="#FFF"/>
+            <circle cx="3" cy="14" r="1" fill="#FFF"/>
+            <circle cx="3" cy="20" r="1" fill="#FFF"/>
+            <path fill="#6D7278" d="M21 5V3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v2h5V3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2h5z"/>
+            <rect width="3" height="4" x="4" fill="#6D7278" rx="1"/>
+            <rect width="3" height="4" x="17" fill="#6D7278" rx="1"/>
+        </g>
+    </g>
+</svg>

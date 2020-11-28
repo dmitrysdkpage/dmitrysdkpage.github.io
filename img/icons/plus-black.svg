@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M50-19v60h-70v-60z"/>
+        <g fill="#424242" transform="rotate(45 6.586 12.414)">
+            <rect width="1" height="13" x="11" y="-1" rx=".5" transform="rotate(45 11.5 5.5)"/>
+            <rect width="1" height="13" x="5" y="5" rx=".5" transform="rotate(45 5.5 11.5)"/>
+            <rect width="1" height="13" x="11" y="5" rx=".5" transform="rotate(135 11.5 11.5)"/>
+            <rect width="1" height="13" x="5" y="-1" rx=".5" transform="rotate(135 5.5 5.5)"/>
+        </g>
+    </g>
+</svg>

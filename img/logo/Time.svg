@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon / Time 30</title>
+    <g id="Icon-/-Time-30" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-16" stroke="#424242" fill="#FFFFFF" x="0.5" y="0.5" width="29" height="29" rx="14.5"></rect>
+        <rect id="Rectangle" fill="#424242" x="14" y="2" width="2" height="17" rx="1"></rect>
+        <path d="M19,9 C19.5522847,9 20,9.44771525 20,10 L20,20 C20,20.5522847 19.5522847,21 19,21 C18.4477153,21 18,20.5522847 18,20 L18,10 C18,9.44771525 18.4477153,9 19,9 Z" id="Rectangle-Copy" fill="#424242" transform="translate(19.000000, 15.000000) rotate(90.000000) translate(-19.000000, -15.000000) "></path>
+        <g id="Group" transform="translate(11.000000, 11.000000)">
+            <circle id="Oval" fill="#424242" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="4" cy="4" r="2"></circle>
+        </g>
+    </g>
+</svg>
